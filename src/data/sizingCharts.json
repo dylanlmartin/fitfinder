@@ -1,0 +1,122 @@
+{
+  "Chanel": {
+    "tops": {
+      "34": { "bust": 32, "waist": 26, "shoulder": 14 },
+      "36": { "bust": 34, "waist": 28, "shoulder": 14.5 },
+      "38": { "bust": 36, "waist": 30, "shoulder": 15 },
+      "40": { "bust": 38, "waist": 32, "shoulder": 15.5 },
+      "42": { "bust": 40, "waist": 34, "shoulder": 16 }
+    },
+    "bottoms": {
+      "34": { "waist": 26, "hips": 36 },
+      "36": { "waist": 28, "hips": 38 },
+      "38": { "waist": 30, "hips": 40 },
+      "40": { "waist": 32, "hips": 42 },
+      "42": { "waist": 34, "hips": 44 }
+    },
+    "dresses": {
+      "34": { "bust": 32, "waist": 26, "hips": 36 },
+      "36": { "bust": 34, "waist": 28, "hips": 38 },
+      "38": { "bust": 36, "waist": 30, "hips": 40 },
+      "40": { "bust": 38, "waist": 32, "hips": 42 },
+      "42": { "bust": 40, "waist": 34, "hips": 44 }
+    },
+    "fitNotes": "Runs true to size, classic French sizing"
+  },
+  "Hermes": {
+    "tops": {
+      "34": { "bust": 33, "waist": 27, "shoulder": 14 },
+      "36": { "bust": 35, "waist": 29, "shoulder": 14.5 },
+      "38": { "bust": 37, "waist": 31, "shoulder": 15 },
+      "40": { "bust": 39, "waist": 33, "shoulder": 15.5 },
+      "42": { "bust": 41, "waist": 35, "shoulder": 16 }
+    },
+    "bottoms": {
+      "34": { "waist": 27, "hips": 37 },
+      "36": { "waist": 29, "hips": 39 },
+      "38": { "waist": 31, "hips": 41 },
+      "40": { "waist": 33, "hips": 43 },
+      "42": { "waist": 35, "hips": 45 }
+    },
+    "dresses": {
+      "34": { "bust": 33, "waist": 27, "hips": 37 },
+      "36": { "bust": 35, "waist": 29, "hips": 39 },
+      "38": { "bust": 37, "waist": 31, "hips": 41 },
+      "40": { "bust": 39, "waist": 33, "hips": 43 },
+      "42": { "bust": 41, "waist": 35, "hips": 45 }
+    },
+    "fitNotes": "Runs slightly generous, premium construction"
+  },
+  "Prada": {
+    "tops": {
+      "38": { "bust": 34, "waist": 28, "shoulder": 14 },
+      "40": { "bust": 36, "waist": 30, "shoulder": 14.5 },
+      "42": { "bust": 38, "waist": 32, "shoulder": 15 },
+      "44": { "bust": 40, "waist": 34, "shoulder": 15.5 },
+      "46": { "bust": 42, "waist": 36, "shoulder": 16 }
+    },
+    "bottoms": {
+      "38": { "waist": 28, "hips": 38 },
+      "40": { "waist": 30, "hips": 40 },
+      "42": { "waist": 32, "hips": 42 },
+      "44": { "waist": 34, "hips": 44 },
+      "46": { "waist": 36, "hips": 46 }
+    },
+    "dresses": {
+      "38": { "bust": 34, "waist": 28, "hips": 38 },
+      "40": { "bust": 36, "waist": 30, "hips": 40 },
+      "42": { "bust": 38, "waist": 32, "hips": 42 },
+      "44": { "bust": 40, "waist": 34, "hips": 44 },
+      "46": { "bust": 42, "waist": 36, "hips": 46 }
+    },
+    "fitNotes": "Runs small, size up one size from typical Italian sizing"
+  },
+  "Gucci": {
+    "tops": {
+      "38": { "bust": 35, "waist": 29, "shoulder": 14.5 },
+      "40": { "bust": 37, "waist": 31, "shoulder": 15 },
+      "42": { "bust": 39, "waist": 33, "shoulder": 15.5 },
+      "44": { "bust": 41, "waist": 35, "shoulder": 16 },
+      "46": { "bust": 43, "waist": 37, "shoulder": 16.5 }
+    },
+    "bottoms": {
+      "38": { "waist": 29, "hips": 39 },
+      "40": { "waist": 31, "hips": 41 },
+      "42": { "waist": 33, "hips": 43 },
+      "44": { "waist": 35, "hips": 45 },
+      "46": { "waist": 37, "hips": 47 }
+    },
+    "dresses": {
+      "38": { "bust": 35, "waist": 29, "hips": 39 },
+      "40": { "bust": 37, "waist": 31, "hips": 41 },
+      "42": { "bust": 39, "waist": 33, "hips": 43 },
+      "44": { "bust": 41, "waist": 35, "hips": 45 },
+      "46": { "bust": 43, "waist": 37, "hips": 47 }
+    },
+    "fitNotes": "Italian sizing, runs true to size"
+  },
+  "Saint Laurent": {
+    "tops": {
+      "34": { "bust": 32, "waist": 26, "shoulder": 13.5 },
+      "36": { "bust": 34, "waist": 28, "shoulder": 14 },
+      "38": { "bust": 36, "waist": 30, "shoulder": 14.5 },
+      "40": { "bust": 38, "waist": 32, "shoulder": 15 },
+      "42": { "bust": 40, "waist": 34, "shoulder": 15.5 }
+    },
+    "bottoms": {
+      "34": { "waist": 26, "hips": 36 },
+      "36": { "waist": 28, "hips": 38 },
+      "38": { "waist": 30, "hips": 40 },
+      "40": { "waist": 32, "hips": 42 },
+      "42": { "waist": 34, "hips": 44 }
+    },
+    "dresses": {
+      "34": { "bust": 32, "waist": 26, "hips": 36 },
+      "36": { "bust": 34, "waist": 28, "hips": 38 },
+      "38": { "bust": 36, "waist": 30, "hips": 40 },
+      "40": { "bust": 38, "waist": 32, "hips": 42 },
+      "42": { "bust": 40, "waist": 34, "hips": 44 }
+    },
+    "fitNotes": "Runs very small, size up significantly from US sizing"
+  }
+}

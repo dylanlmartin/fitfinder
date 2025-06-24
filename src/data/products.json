@@ -1,0 +1,247 @@
+[
+  {
+    "id": "trr_001",
+    "title": "Chanel Classic Tweed Jacket",
+    "brand": "Chanel",
+    "category": "tops",
+    "subcategory": "jackets",
+    "size": "38",
+    "price": 2450,
+    "condition": "Excellent",
+    "url": "https://therealreal.com/products/chanel-tweed-jacket-001",
+    "images": [
+      "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400",
+      "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400"
+    ],
+    "measurements": {
+      "bust": 36,
+      "length": 24,
+      "shoulder": 15
+    },
+    "description": "Classic Chanel tweed jacket in excellent condition. Features iconic chain weighting and gold-tone hardware."
+  },
+  {
+    "id": "trr_002",
+    "title": "Hermes Silk Blouse",
+    "brand": "Hermes",
+    "category": "tops",
+    "subcategory": "blouses",
+    "size": "36",
+    "price": 850,
+    "condition": "Very Good",
+    "url": "https://therealreal.com/products/hermes-silk-blouse-002",
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400"
+    ],
+    "measurements": {
+      "bust": 34,
+      "length": 26,
+      "shoulder": 14
+    },
+    "description": "Beautiful Hermes silk blouse with equestrian print. Perfect for sophisticated looks."
+  },
+  {
+    "id": "trr_003",
+    "title": "Prada Midi Dress",
+    "brand": "Prada",
+    "category": "dresses",
+    "subcategory": "midi",
+    "size": "40",
+    "price": 1200,
+    "condition": "Good",
+    "url": "https://therealreal.com/products/prada-midi-dress-003",
+    "images": [
+      "https://images.unsplash.com/photo-1566479179817-c9a0ecd0e6e1?w=400"
+    ],
+    "measurements": {
+      "bust": 38,
+      "waist": 32,
+      "hips": 40,
+      "length": 42
+    },
+    "description": "Elegant Prada midi dress in black. Minimalist design with subtle logo details."
+  },
+  {
+    "id": "trr_004",
+    "title": "Gucci Silk Scarf Print Blouse",
+    "brand": "Gucci",
+    "category": "tops",
+    "subcategory": "blouses",
+    "size": "42",
+    "price": 650,
+    "condition": "Excellent",
+    "url": "https://therealreal.com/products/gucci-silk-blouse-004",
+    "images": [
+      "https://images.unsplash.com/photo-1564564295391-7f24f26e568b?w=400"
+    ],
+    "measurements": {
+      "bust": 40,
+      "length": 25,
+      "shoulder": 16
+    },
+    "description": "Luxurious Gucci silk blouse featuring iconic scarf print. Versatile piece for day to night."
+  },
+  {
+    "id": "trr_005",
+    "title": "Saint Laurent Leather Jacket",
+    "brand": "Saint Laurent",
+    "category": "outerwear",
+    "subcategory": "jackets",
+    "size": "36",
+    "price": 1800,
+    "condition": "Very Good",
+    "url": "https://therealreal.com/products/saint-laurent-leather-jacket-005",
+    "images": [
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=400"
+    ],
+    "measurements": {
+      "bust": 34,
+      "length": 22,
+      "shoulder": 15
+    },
+    "description": "Classic Saint Laurent leather moto jacket. Timeless design with signature hardware."
+  },
+  {
+    "id": "trr_006",
+    "title": "Chanel Quilted Skirt",
+    "brand": "Chanel",
+    "category": "bottoms",
+    "subcategory": "skirts",
+    "size": "38",
+    "price": 980,
+    "condition": "Excellent",
+    "url": "https://therealreal.com/products/chanel-quilted-skirt-006",
+    "images": [
+      "https://images.unsplash.com/photo-1583496661160-fb5886a13c4e?w=400"
+    ],
+    "measurements": {
+      "waist": 30,
+      "hips": 38,
+      "length": 24
+    },
+    "description": "Iconic Chanel quilted skirt in navy. Features signature chain details and gold hardware."
+  },
+  {
+    "id": "trr_007",
+    "title": "Hermes Wrap Dress",
+    "brand": "Hermes",
+    "category": "dresses",
+    "subcategory": "wrap",
+    "size": "38",
+    "price": 1450,
+    "condition": "Excellent",
+    "url": "https://therealreal.com/products/hermes-wrap-dress-007",
+    "images": [
+      "https://images.unsplash.com/photo-1585487000143-66b1526371ae?w=400"
+    ],
+    "measurements": {
+      "bust": 36,
+      "waist": 28,
+      "hips": 38,
+      "length": 40
+    },
+    "description": "Elegant Hermes wrap dress in silk jersey. Perfect fit and sophisticated style."
+  },
+  {
+    "id": "trr_008",
+    "title": "Prada Wool Trousers",
+    "brand": "Prada",
+    "category": "bottoms",
+    "subcategory": "trousers",
+    "size": "42",
+    "price": 420,
+    "condition": "Good",
+    "url": "https://therealreal.com/products/prada-wool-trousers-008",
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=400"
+    ],
+    "measurements": {
+      "waist": 32,
+      "hips": 42,
+      "inseam": 32
+    },
+    "description": "Classic Prada wool trousers in charcoal. Tailored fit with modern silhouette."
+  },
+  {
+    "id": "trr_009",
+    "title": "Gucci Floral Midi Dress",
+    "brand": "Gucci",
+    "category": "dresses",
+    "subcategory": "midi",
+    "size": "40",
+    "price": 1350,
+    "condition": "Very Good",
+    "url": "https://therealreal.com/products/gucci-floral-dress-009",
+    "images": [
+      "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=400"
+    ],
+    "measurements": {
+      "bust": 38,
+      "waist": 30,
+      "hips": 40,
+      "length": 44
+    },
+    "description": "Stunning Gucci floral midi dress. Feminine design with contemporary flair."
+  },
+  {
+    "id": "trr_010",
+    "title": "Saint Laurent Silk Shirt",
+    "brand": "Saint Laurent",
+    "category": "tops",
+    "subcategory": "shirts",
+    "size": "36",
+    "price": 520,
+    "condition": "Excellent",
+    "url": "https://therealreal.com/products/saint-laurent-silk-shirt-010",
+    "images": [
+      "https://images.unsplash.com/photo-1564564295391-7f24f26e568b?w=400"
+    ],
+    "measurements": {
+      "bust": 34,
+      "length": 27,
+      "shoulder": 14
+    },
+    "description": "Classic Saint Laurent silk shirt in cream. Versatile piece for professional or casual wear."
+  },
+  {
+    "id": "trr_011",
+    "title": "Chanel Little Black Dress",
+    "brand": "Chanel",
+    "category": "dresses",
+    "subcategory": "cocktail",
+    "size": "36",
+    "price": 2200,
+    "condition": "Excellent",
+    "url": "https://therealreal.com/products/chanel-lbd-011",
+    "images": [
+      "https://images.unsplash.com/photo-1566479179817-c9a0ecd0e6e1?w=400"
+    ],
+    "measurements": {
+      "bust": 34,
+      "waist": 26,
+      "hips": 36,
+      "length": 38
+    },
+    "description": "Timeless Chanel little black dress. Perfect for any occasion with signature elegance."
+  },
+  {
+    "id": "trr_012",
+    "title": "Hermes Cashmere Sweater",
+    "brand": "Hermes",
+    "category": "tops",
+    "subcategory": "sweaters",
+    "size": "38",
+    "price": 750,
+    "condition": "Very Good",
+    "url": "https://therealreal.com/products/hermes-cashmere-sweater-012",
+    "images": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400"
+    ],
+    "measurements": {
+      "bust": 36,
+      "length": 25,
+      "shoulder": 15
+    },
+    "description": "Luxurious Hermes cashmere sweater in camel. Soft and sophisticated."
+  }
+]
